@@ -3,11 +3,13 @@ from datetime import datetime
 import smtplib
 import time
 
+
+# Coordinates for Maribor
 MY_LAT = 46.557339
 MY_LNG = 15.645910
 
-MY_EMAIL = "remyhadley30@gmail.com"
-MY_PASSWORD = "mercury28"
+MY_EMAIL = "*******@gmail.com"
+MY_PASSWORD = "*******"
 
 def is_iss_overhead():
 
